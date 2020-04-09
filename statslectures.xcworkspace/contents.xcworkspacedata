@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:requirements.txt">
+   </FileRef>
+   <FileRef
+      location = "group:chi2.ipynb">
+   </FileRef>
+   <FileRef
+      location = "group:lecture 2 more basics, parameter estimation.ipynb">
+   </FileRef>
+</Workspace>
